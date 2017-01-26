@@ -1,2 +1,4 @@
 # hello-world
-just some stuff
+Just some stuff 
+about myself.  
+To be continued.
